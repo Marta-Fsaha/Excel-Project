@@ -4,7 +4,7 @@
 Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand 
 
 ## Dataset
--<a href="https://github.com/Marta-Fsaha/Excel-Project/blob/main/Coffee%20orderdataset.xlsx">Dataset </a>
+<a href="https://github.com/Marta-Fsaha/Excel-Project/blob/main/Coffee%20orderdataset.xlsx">Dataset </a>
 ## Questions
 
 What are sales over time?
@@ -16,6 +16,8 @@ Which products are bestselling?
 Who are top customers?
 
 Which country is bestselling?
+
+Dashboard interaction
 
 
 ## Process
@@ -30,6 +32,8 @@ Which country is bestselling?
 -merge all pivot tables on to dashboard and apply timeline and slicer
 
 ## Dashboard
+
+![screenshot 2026-02-2-26 210448](https://github.com/Marta-Fsaha/Excel-Project/blob/main/Screenshot%202026-02-26%20210448.png)
 
 ## Project insight
 
