@@ -1,14 +1,15 @@
 # Excel-Project
+
 I created a comprehensive excel project by generating dashboards and tables for analyzing the data, which includes gathering the information, cleaning, processing, and visualization.
 
-#Project Objectives
+# Project Objectives
+
 Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand 
 
+# Dataset
 
-#Dataset used
 
-
-#Questions
+# Questions
 
 What are sales over time?
 Which year got the highest sale_
@@ -16,7 +17,7 @@ Which products are bestselling?
 Who are top customers?
 Which country is bestselling?
 
-#Process
+# Process
 
 - Collecting data
 -Verifying data for missing values and sort
@@ -24,9 +25,10 @@ Which country is bestselling?
 -creating pivot table according to question asked
 -merge all pivot tables on to dashboard and apply timeline and slicer
 
-#dashboard
+# dashboard
 
-Project insight
+# Project insight
+
 -Most of orders are from united states
 -2021 got hight sale
 
